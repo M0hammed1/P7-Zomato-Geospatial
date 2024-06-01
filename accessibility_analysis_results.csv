@@ -1,0 +1,291 @@
+location,online_order,book_table,count
+BTM,No,No,1740
+BTM,No,Yes,52
+BTM,Yes,No,3216
+BTM,Yes,Yes,116
+Banashankari,No,No,391
+Banashankari,No,Yes,6
+Banashankari,Yes,No,451
+Banashankari,Yes,Yes,58
+Banaswadi,No,No,321
+Banaswadi,Yes,No,335
+Banaswadi,Yes,Yes,8
+Bannerghatta Road,No,No,687
+Bannerghatta Road,No,Yes,19
+Bannerghatta Road,Yes,No,844
+Bannerghatta Road,Yes,Yes,80
+Basavanagudi,No,No,229
+Basavanagudi,No,Yes,14
+Basavanagudi,Yes,No,439
+Basavanagudi,Yes,Yes,2
+Basaveshwara Nagar,No,No,88
+Basaveshwara Nagar,No,Yes,3
+Basaveshwara Nagar,Yes,No,85
+Basaveshwara Nagar,Yes,Yes,15
+Bellandur,No,No,494
+Bellandur,No,Yes,31
+Bellandur,Yes,No,694
+Bellandur,Yes,Yes,67
+Bommanahalli,No,No,120
+Bommanahalli,No,Yes,3
+Bommanahalli,Yes,No,115
+Brigade Road,No,No,454
+Brigade Road,No,Yes,99
+Brigade Road,Yes,No,585
+Brigade Road,Yes,Yes,80
+Brookefield,No,No,227
+Brookefield,No,Yes,14
+Brookefield,Yes,No,357
+Brookefield,Yes,Yes,60
+CV Raman Nagar,No,No,33
+CV Raman Nagar,Yes,No,57
+Central Bangalore,No,No,5
+Central Bangalore,Yes,No,3
+Church Street,No,No,174
+Church Street,No,Yes,52
+Church Street,Yes,No,213
+Church Street,Yes,Yes,130
+City Market,No,No,98
+City Market,Yes,No,26
+City Market,Yes,Yes,2
+Commercial Street,No,No,228
+Commercial Street,Yes,No,142
+Cunningham Road,No,No,127
+Cunningham Road,No,Yes,41
+Cunningham Road,Yes,No,189
+Cunningham Road,Yes,Yes,134
+Domlur,No,No,219
+Domlur,No,Yes,42
+Domlur,Yes,No,222
+Domlur,Yes,Yes,13
+East Bangalore,No,No,21
+East Bangalore,Yes,No,23
+Ejipura,No,No,219
+Ejipura,Yes,No,220
+Electronic City,No,No,631
+Electronic City,No,Yes,50
+Electronic City,Yes,No,528
+Electronic City,Yes,Yes,49
+Frazer Town,No,No,292
+Frazer Town,No,Yes,3
+Frazer Town,Yes,No,427
+Frazer Town,Yes,Yes,5
+HBR Layout,No,No,48
+HBR Layout,Yes,No,99
+HBR Layout,Yes,Yes,6
+HSR,No,No,568
+HSR,No,Yes,35
+HSR,Yes,No,1738
+HSR,Yes,Yes,182
+Hebbal,No,No,10
+Hebbal,Yes,No,4
+Hennur,No,No,58
+Hennur,Yes,No,95
+Hennur,Yes,Yes,8
+Hosur Road,No,No,43
+Hosur Road,Yes,No,43
+Hosur Road,Yes,Yes,16
+"ITPL Main Road, Whitefield",No,No,29
+"ITPL Main Road, Whitefield",No,Yes,4
+"ITPL Main Road, Whitefield",Yes,No,80
+Indiranagar,No,No,546
+Indiranagar,No,Yes,202
+Indiranagar,Yes,No,1083
+Indiranagar,Yes,Yes,252
+Infantry Road,No,No,55
+Infantry Road,No,Yes,34
+Infantry Road,Yes,No,62
+JP Nagar,No,No,805
+JP Nagar,No,Yes,112
+JP Nagar,Yes,No,1115
+JP Nagar,Yes,Yes,203
+Jakkur,No,No,3
+Jalahalli,No,No,17
+Jalahalli,Yes,No,21
+Jayanagar,No,No,490
+Jayanagar,No,Yes,72
+Jayanagar,Yes,No,1157
+Jayanagar,Yes,Yes,207
+Jeevan Bhima Nagar,No,No,68
+Jeevan Bhima Nagar,Yes,No,200
+Jeevan Bhima Nagar,Yes,Yes,4
+KR Puram,No,No,11
+KR Puram,Yes,No,7
+Kaggadasapura,No,No,22
+Kaggadasapura,Yes,No,77
+Kaggadasapura,Yes,Yes,2
+Kalyan Nagar,No,No,309
+Kalyan Nagar,No,Yes,46
+Kalyan Nagar,Yes,No,395
+Kalyan Nagar,Yes,Yes,103
+Kammanahalli,No,No,258
+Kammanahalli,No,Yes,10
+Kammanahalli,Yes,No,341
+Kammanahalli,Yes,Yes,39
+Kanakapura Road,No,No,2
+Kanakapura Road,Yes,No,16
+Kanakapura Road,Yes,Yes,1
+Kengeri,No,No,2
+Kengeri,Yes,No,7
+Koramangala,No,No,18
+Koramangala,Yes,No,30
+Koramangala 1st Block,No,No,368
+Koramangala 1st Block,No,Yes,17
+Koramangala 1st Block,Yes,No,820
+Koramangala 1st Block,Yes,Yes,33
+Koramangala 2nd Block,No,No,39
+Koramangala 2nd Block,Yes,No,42
+Koramangala 2nd Block,Yes,Yes,21
+Koramangala 3rd Block,No,No,43
+Koramangala 3rd Block,No,Yes,48
+Koramangala 3rd Block,Yes,No,63
+Koramangala 3rd Block,Yes,Yes,62
+Koramangala 4th Block,No,No,339
+Koramangala 4th Block,No,Yes,120
+Koramangala 4th Block,Yes,No,356
+Koramangala 4th Block,Yes,Yes,202
+Koramangala 5th Block,No,No,591
+Koramangala 5th Block,No,Yes,299
+Koramangala 5th Block,Yes,No,1221
+Koramangala 5th Block,Yes,Yes,393
+Koramangala 6th Block,No,No,432
+Koramangala 6th Block,No,Yes,25
+Koramangala 6th Block,Yes,No,611
+Koramangala 6th Block,Yes,Yes,88
+Koramangala 7th Block,No,No,330
+Koramangala 7th Block,No,Yes,65
+Koramangala 7th Block,Yes,No,687
+Koramangala 7th Block,Yes,Yes,99
+Koramangala 8th Block,No,No,108
+Koramangala 8th Block,Yes,No,195
+Koramangala 8th Block,Yes,Yes,17
+Kumaraswamy Layout,No,No,30
+Kumaraswamy Layout,Yes,No,163
+Kumaraswamy Layout,Yes,Yes,2
+Langford Town,No,No,22
+Langford Town,Yes,No,5
+Lavelle Road,No,No,198
+Lavelle Road,No,Yes,125
+Lavelle Road,Yes,No,99
+Lavelle Road,Yes,Yes,107
+MG Road,No,No,370
+MG Road,No,Yes,174
+MG Road,Yes,No,201
+MG Road,Yes,Yes,173
+Magadi Road,No,No,15
+Magadi Road,No,Yes,1
+Magadi Road,Yes,No,18
+Majestic,No,No,132
+Majestic,No,Yes,2
+Majestic,Yes,No,21
+Malleshwaram,No,No,267
+Malleshwaram,No,Yes,43
+Malleshwaram,Yes,No,369
+Malleshwaram,Yes,Yes,46
+Marathahalli,No,No,656
+Marathahalli,No,Yes,78
+Marathahalli,Yes,No,1024
+Marathahalli,Yes,Yes,88
+Mysore Road,No,No,12
+Mysore Road,Yes,No,10
+Nagarbhavi,No,No,7
+Nagarbhavi,Yes,No,2
+Nagawara,No,No,25
+Nagawara,Yes,No,151
+Nagawara,Yes,Yes,11
+New BEL Road,No,No,238
+New BEL Road,No,Yes,19
+New BEL Road,Yes,No,355
+New BEL Road,Yes,Yes,37
+North Bangalore,No,No,9
+North Bangalore,Yes,No,5
+Old Airport Road,No,No,186
+Old Airport Road,No,Yes,44
+Old Airport Road,Yes,No,201
+Old Airport Road,Yes,Yes,15
+Old Madras Road,No,No,5
+Old Madras Road,Yes,No,17
+Peenya,No,No,1
+RT Nagar,No,No,25
+RT Nagar,Yes,No,54
+RT Nagar,Yes,Yes,1
+Race Course Road,No,No,52
+Race Course Road,No,Yes,41
+Race Course Road,Yes,No,45
+Race Course Road,Yes,Yes,1
+Rajajinagar,No,No,265
+Rajajinagar,No,Yes,21
+Rajajinagar,Yes,No,285
+Rajajinagar,Yes,Yes,20
+Rajarajeshwari Nagar,Yes,No,2
+Rammurthy Nagar,No,No,5
+Rammurthy Nagar,Yes,No,27
+Residency Road,No,No,307
+Residency Road,No,Yes,120
+Residency Road,Yes,No,217
+Residency Road,Yes,Yes,31
+Richmond Road,No,No,506
+Richmond Road,No,Yes,59
+Richmond Road,Yes,No,190
+Richmond Road,Yes,Yes,57
+Sadashiv Nagar,No,No,27
+Sadashiv Nagar,No,Yes,11
+Sadashiv Nagar,Yes,No,18
+Sadashiv Nagar,Yes,Yes,7
+Sahakara Nagar,No,No,15
+Sahakara Nagar,Yes,No,35
+Sahakara Nagar,Yes,Yes,3
+Sanjay Nagar,No,No,39
+Sanjay Nagar,Yes,No,37
+Sankey Road,No,No,16
+Sankey Road,No,Yes,11
+Sarjapur Road,No,No,283
+Sarjapur Road,No,Yes,53
+Sarjapur Road,Yes,No,626
+Sarjapur Road,Yes,Yes,103
+Seshadripuram,No,No,81
+Seshadripuram,No,Yes,9
+Seshadripuram,Yes,No,73
+Seshadripuram,Yes,Yes,2
+Shanti Nagar,No,No,258
+Shanti Nagar,No,Yes,31
+Shanti Nagar,Yes,No,195
+Shanti Nagar,Yes,Yes,27
+Shivajinagar,No,No,354
+Shivajinagar,Yes,No,122
+Shivajinagar,Yes,Yes,23
+South Bangalore,No,No,36
+South Bangalore,Yes,No,71
+St. Marks Road,No,No,149
+St. Marks Road,No,Yes,36
+St. Marks Road,Yes,No,79
+St. Marks Road,Yes,Yes,88
+Thippasandra,No,No,111
+Thippasandra,Yes,No,83
+Ulsoor,No,No,272
+Ulsoor,No,Yes,123
+Ulsoor,Yes,No,574
+Ulsoor,Yes,Yes,54
+Uttarahalli,No,No,7
+Uttarahalli,Yes,No,10
+"Varthur Main Road, Whitefield",No,No,20
+"Varthur Main Road, Whitefield",Yes,No,97
+Vasanth Nagar,No,No,131
+Vasanth Nagar,No,Yes,17
+Vasanth Nagar,Yes,No,147
+Vijay Nagar,No,No,26
+Vijay Nagar,Yes,No,54
+West Bangalore,No,No,4
+West Bangalore,Yes,No,2
+Whitefield,No,No,902
+Whitefield,No,Yes,103
+Whitefield,Yes,No,989
+Whitefield,Yes,Yes,150
+Wilson Garden,No,No,107
+Wilson Garden,No,Yes,5
+Wilson Garden,Yes,No,134
+Yelahanka,No,No,1
+Yelahanka,Yes,No,5
+Yeshwantpur,No,No,26
+Yeshwantpur,Yes,No,91
+Yeshwantpur,Yes,Yes,2
